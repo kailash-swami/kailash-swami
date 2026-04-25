@@ -1,9 +1,9 @@
 
 # Hi, I'm Kailash Swami
 
-🤖 ML Engineer focused on building real-world AI systems — from classical ML to LLM-powered applications
-🔨 Currently building a NLP-to-SQL system and a RAG-based Legal Advice System
-📍 Open to Junior ML Engineer / AI Engineer roles
+- 🤖 ML Engineer focused on building real-world AI systems — from classical ML to LLM-powered applications
+- 🔨 Currently building a NLP-to-SQL system and a RAG-based Legal Advice System
+- 📍 Open to Junior ML Engineer / AI Engineer roles
 
 ---
 
