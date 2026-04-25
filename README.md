@@ -24,7 +24,7 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: [Kailash Swami](https://www.linkedin.com/in/kailash-swami-17066b319)
+- 💼 LinkedIn: [Kailash Swami](https://www.linkedin.com/in/kailash-swami)
 - 📧 Email: swamikailash545@gmail.com
 - 🐙 GitHub: [kailash-swami](https://github.com/kailash-swami)
 ---
